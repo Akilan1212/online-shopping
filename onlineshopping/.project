@@ -3,6 +3,10 @@
 	<name>onlineshopping</name>
 	<comment></comment>
 	<projects>
+		<project>project niit</project>
+		<project>RemoteSystemsTempFiles</project>
+		<project>Servers</project>
+		<project>shoppingbackend</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
